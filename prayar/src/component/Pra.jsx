@@ -10,4 +10,5 @@ const Pra = ({name, time}) => {
   )
 }
 
+
 export default Pra
